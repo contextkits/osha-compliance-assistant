@@ -12,8 +12,6 @@ Give Claude instant access to OSHA General Industry compliance knowledge (29 CFR
 
 **Free tier available — no credit card required.**
 
-📧 Email gcsmst at gmail.com with subject "MCP API Key" to get your free Sandbox key
-
 | Tier | Daily Calls | Price |
 |------|------------|-------|
 | Sandbox | 50/day | Free |
@@ -107,7 +105,7 @@ Covers 30+ high-priority OSHA 1910 topics including fall protection, lockout/tag
 
 **Free tier available.** Get your API key instantly via Telegram:
 
-👉 **[https://t.me/osha_saas_v2_bot](https://t.me/osha_saas_v2_bot)**
+📧 Email gcsmst at gmail.com with subject "MCP API Key" to get your free Sandbox key
 
 | Tier | Daily Queries | Price |
 |------|--------------|-------|
