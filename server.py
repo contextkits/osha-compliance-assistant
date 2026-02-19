@@ -2,7 +2,7 @@
 """
 OSHA Compliance Assistant - MCP Server
 Connects to hosted OSHA compliance API.
-Contact us to Get your API key
+📧 Email gcsmst at gmail.com with subject "MCP API Key" to get your free Sandbox key
 """
 
 import asyncio
