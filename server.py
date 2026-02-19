@@ -82,7 +82,7 @@ async def handle_call_tool(name: str, arguments: dict) -> list[TextContent]:
             return [TextContent(type="text", text=f"❌ API error ({response.status_code}). Please try again.")]
 
         data = response.json()
-        answer = data.get("answer") or data.get("response") or data.get("result") or str(data)
+        answer = data.get("response") or data.get("answer") or data.get("result") or str(data)
         return [TextContent(type="text", text=answer)]
 
     except httpx.TimeoutException:
