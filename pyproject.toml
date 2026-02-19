@@ -17,7 +17,7 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://github.com/contextkits/osha-compliance-assistant"
-"Get API Key" = "https://t.me/osha_saas_v2_bot"
+Email us at to Get API key 
 
 [project.scripts]
 osha-mcp = "server:main"
