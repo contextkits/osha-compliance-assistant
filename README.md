@@ -12,7 +12,7 @@ Give Claude instant access to OSHA General Industry compliance knowledge (29 CFR
 
 **Free tier available — no credit card required.**
 
-👉 **[Get API key via Telegram Bot](https://t.me/osha_saas_v2_bot)**
+📧 Email gcsmst at gmail.com with subject "MCP API Key" to get your free Sandbox key
 
 | Tier | Daily Calls | Price |
 |------|------------|-------|
