@@ -17,7 +17,7 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://github.com/contextkits/osha-compliance-assistant"
-Email us at to Get API key 
+📧 Email gcsmst at gmail.com with subject "MCP API Key" to get your free Sandbox key
 
 [project.scripts]
 osha-mcp = "server:main"
