@@ -2,7 +2,7 @@
 """
 OSHA Compliance Assistant - MCP Server
 Connects to hosted OSHA compliance API.
-Get your API key at: https://t.me/osha_saas_v2_bot
+Contact us to Get your API key
 """
 
 import asyncio
