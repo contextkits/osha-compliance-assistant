@@ -5,11 +5,19 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "osha-compliance-assistant"
 version = "1.0.0"
-description = "MCP server for OSHA workplace safety compliance"
+description = "MCP server for OSHA General Industry workplace safety compliance"
+readme = "README.md"
+license = { file = "LICENSE" }
 requires-python = ">=3.10"
+keywords = ["mcp", "osha", "safety", "compliance", "workplace"]
 dependencies = [
     "mcp>=0.9.0",
+    "httpx>=0.27.0",
 ]
+
+[project.urls]
+Homepage = "https://github.com/contextkits/osha-compliance-assistant"
+"Get API Key" = "https://t.me/osha_saas_v2_bot"
 
 [project.scripts]
 osha-mcp = "server:main"
