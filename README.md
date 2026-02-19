@@ -14,10 +14,10 @@ Give Claude instant access to OSHA General Industry compliance knowledge (29 CFR
 
 | Tier | Daily Calls | Price |
 |------|------------|-------|
-| Sandbox | 50/day | Free |
-| Developer | 5,000/day | $49/mo |
-| Team | 20,000/day | $149/mo |
-| Enterprise | Unlimited | $499/mo |
+| Sandbox | 10/day | Free |
+| Developer | 500/day | $79/mo |
+| Team | 2,000/day | $199/mo |
+| Enterprise | 10,000/day | $499/mo |
 
 ---
 
@@ -107,12 +107,12 @@ Covers 30+ high-priority OSHA 1910 topics including fall protection, lockout/tag
 
 📧 Email gcsmst at gmail.com with subject "MCP API Key" to get your free Sandbox key
 
-| Tier | Daily Queries | Price |
-|------|--------------|-------|
-| Free | 5/day | Free |
-| Starter | 100/day | $9/mo |
-| Pro | 1,000/day | $29/mo |
-| Enterprise | Unlimited | $99/mo |
+| Tier | Daily Calls | Price |
+|------|------------|-------|
+| Sandbox | 10/day | Free |
+| Developer | 500/day | $79/mo |
+| Team | 2,000/day | $199/mo |
+| Enterprise | 10,000/day | $499/mo |
 
 ---
 
